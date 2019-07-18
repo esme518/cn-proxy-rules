@@ -280,6 +280,7 @@ var _http_map = {
             "acs.youku.com": [/^\//i],
             "ups.youku.com": [/^\//i],
             "ac.qq.com": [/^\//i],
+            "www.acfun.cn": [/^\//i],
             "v.youku.com": [/^\//i],
             "c.y.qq.com": [/^\//i],
             "api.unipay.qq.com": [/^\//i],
